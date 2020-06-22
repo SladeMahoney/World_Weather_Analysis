@@ -20,4 +20,4 @@ After using the WeatherPy Vacation Map to narrow down our locations, we asked ou
 ![WeatherPy_travel_map](/Challenge/WeatherPy_travel_map.png)
 
 ## Map with hotel descriptions
-![WeatherPy_travel_marker_map](/Challenge/WeatherPy_travel_marker_map.png)
+![WeatherPy_travel_markers_map](/Challenge/WeatherPy_travel_markers_map.png)
